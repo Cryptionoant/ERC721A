@@ -17,5 +17,5 @@ interface IERC721ABurnable is IERC721A {
      *
      * - The caller must own `tokenId` or be an approved operator.
      */
-    function burn(uint256 tokenId) external;
+    //function burn(uint256 tokenId) external;
 }
